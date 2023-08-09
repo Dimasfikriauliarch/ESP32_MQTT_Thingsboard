@@ -1,1 +1,4 @@
 # Esp32_MQTT_Thingsboard
+Monitoring Berbasis Internet Of Things, Sensor DHT22 Dengan sebagai pendeteksi Temperature&Humidity (Suhu&Kelembaban), dan Sensor LDR (Light Dependent Resistor) sebagai pendeteksi cahaya, Menggunakan Mikrokontroller ESP32 dari Espressif Systems. Menggunakan jaringan nirkabel WiFi sebagai konektivitas, Dan Protocol IoT pesan jaringan menggunakan MQTT (Message Queuing Telemetry Transport) sebagai media komunikasi data. lalu menggunakan ThingsBoard sebagai platform IoT, yang memungkinkan sebagai tempat pengiriman data dari sensor. Thingsboard menyediakan sisi server terdiri dari database,mqtt broker dan web server yang juga terdapat dashboard, dan ditampilkan melalui komunikasi serial I2C di LCD20x4 I2C dan Komunikasi SPI di TFT LCD ILI9341 dan Serial monitor. 
+
+email: dimasfikri09@gmail.com
